@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "7398B0F21C262310000ED3FD"
-               BuildableName = "ReduxReactiveKit-OSX.framework"
-               BlueprintName = "ReduxReactiveKit-OSX"
+               BlueprintIdentifier = "7398B0D61C2622FE000ED3FD"
+               BuildableName = "ReduxReactiveKit.framework"
+               BlueprintName = "ReduxReactiveKit-tvOS"
                ReferencedContainer = "container:ReduxReactiveKit.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -32,9 +32,9 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "7398B0FB1C262310000ED3FD"
-               BuildableName = "ReduxReactiveKit-OSXTests.xctest"
-               BlueprintName = "ReduxReactiveKit-OSXTests"
+               BlueprintIdentifier = "7398B0DF1C2622FE000ED3FD"
+               BuildableName = "ReduxReactiveKit.xctest"
+               BlueprintName = "ReduxReactiveKit-tvOSTests"
                ReferencedContainer = "container:ReduxReactiveKit.xcodeproj">
             </BuildableReference>
          </TestableReference>
@@ -42,9 +42,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "7398B0F21C262310000ED3FD"
-            BuildableName = "ReduxReactiveKit-OSX.framework"
-            BlueprintName = "ReduxReactiveKit-OSX"
+            BlueprintIdentifier = "7398B0D61C2622FE000ED3FD"
+            BuildableName = "ReduxReactiveKit.framework"
+            BlueprintName = "ReduxReactiveKit-tvOS"
             ReferencedContainer = "container:ReduxReactiveKit.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -64,9 +64,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "7398B0F21C262310000ED3FD"
-            BuildableName = "ReduxReactiveKit-OSX.framework"
-            BlueprintName = "ReduxReactiveKit-OSX"
+            BlueprintIdentifier = "7398B0D61C2622FE000ED3FD"
+            BuildableName = "ReduxReactiveKit.framework"
+            BlueprintName = "ReduxReactiveKit-tvOS"
             ReferencedContainer = "container:ReduxReactiveKit.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -82,9 +82,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "7398B0F21C262310000ED3FD"
-            BuildableName = "ReduxReactiveKit-OSX.framework"
-            BlueprintName = "ReduxReactiveKit-OSX"
+            BlueprintIdentifier = "7398B0D61C2622FE000ED3FD"
+            BuildableName = "ReduxReactiveKit.framework"
+            BlueprintName = "ReduxReactiveKit-tvOS"
             ReferencedContainer = "container:ReduxReactiveKit.xcodeproj">
          </BuildableReference>
       </MacroExpansion>

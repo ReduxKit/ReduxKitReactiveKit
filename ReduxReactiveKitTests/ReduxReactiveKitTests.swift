@@ -7,7 +7,9 @@
 //
 
 import XCTest
-@testable import ReduxReactiveKit
+import ReactiveKit
+import Redux
+//@testable import ReduxReactiveKit
 
 class ReduxReactiveKitTests: XCTestCase {
 
@@ -24,6 +26,7 @@ class ReduxReactiveKitTests: XCTestCase {
     func testExample() {
         // This is an example of a functional test case.
         // Use XCTAssert and related functions to verify your tests produce the correct results.
+        XCTAssert(1 == 1)
     }
 
     func testPerformanceExample() {

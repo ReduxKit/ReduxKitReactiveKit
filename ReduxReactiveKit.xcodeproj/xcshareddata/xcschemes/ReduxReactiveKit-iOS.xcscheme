@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "7398B0C91C2622F0000ED3FD"
-               BuildableName = "ReduxReactiveKit-watchOS.framework"
-               BlueprintName = "ReduxReactiveKit-watchOS"
+               BlueprintIdentifier = "7398B0AA1C2622C5000ED3FD"
+               BuildableName = "ReduxReactiveKit.framework"
+               BlueprintName = "ReduxReactiveKit-iOS"
                ReferencedContainer = "container:ReduxReactiveKit.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -28,7 +28,26 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "7398B0B41C2622C5000ED3FD"
+               BuildableName = "ReduxReactiveKit.xctest"
+               BlueprintName = "ReduxReactiveKit-iOSTests"
+               ReferencedContainer = "container:ReduxReactiveKit.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "7398B0AA1C2622C5000ED3FD"
+            BuildableName = "ReduxReactiveKit.framework"
+            BlueprintName = "ReduxReactiveKit-iOS"
+            ReferencedContainer = "container:ReduxReactiveKit.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </TestAction>
@@ -45,9 +64,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "7398B0C91C2622F0000ED3FD"
-            BuildableName = "ReduxReactiveKit-watchOS.framework"
-            BlueprintName = "ReduxReactiveKit-watchOS"
+            BlueprintIdentifier = "7398B0AA1C2622C5000ED3FD"
+            BuildableName = "ReduxReactiveKit.framework"
+            BlueprintName = "ReduxReactiveKit-iOS"
             ReferencedContainer = "container:ReduxReactiveKit.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -63,9 +82,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "7398B0C91C2622F0000ED3FD"
-            BuildableName = "ReduxReactiveKit-watchOS.framework"
-            BlueprintName = "ReduxReactiveKit-watchOS"
+            BlueprintIdentifier = "7398B0AA1C2622C5000ED3FD"
+            BuildableName = "ReduxReactiveKit.framework"
+            BlueprintName = "ReduxReactiveKit-iOS"
             ReferencedContainer = "container:ReduxReactiveKit.xcodeproj">
          </BuildableReference>
       </MacroExpansion>

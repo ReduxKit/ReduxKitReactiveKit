@@ -6,4 +6,5 @@
 //  Copyright © 2015 SwiftRedux. All rights reserved.
 //
 
-import Foundation
+import ReactiveKit
+import Redux

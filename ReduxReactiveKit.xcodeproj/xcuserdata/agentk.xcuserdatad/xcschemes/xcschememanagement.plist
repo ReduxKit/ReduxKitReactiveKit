@@ -4,25 +4,25 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>ReduxReactiveKit-OSX.xcscheme</key>
+		<key>ReduxReactiveKit-OSX.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>3</integer>
+			<integer>1</integer>
 		</dict>
-		<key>ReduxReactiveKit-iOS.xcscheme</key>
+		<key>ReduxReactiveKit-iOS.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
-		<key>ReduxReactiveKit-tvOS.xcscheme</key>
+		<key>ReduxReactiveKit-tvOS.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>2</integer>
 		</dict>
-		<key>ReduxReactiveKit-watchOS.xcscheme</key>
+		<key>ReduxReactiveKit-watchOS.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>1</integer>
+			<integer>3</integer>
 		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
