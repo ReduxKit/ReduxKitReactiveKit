@@ -86,7 +86,7 @@ func createStore<State>(reducer: Reducer, state: State? = nil)
 	-> Store<State>
 ```
 
-Uses `createStateStream` to create a `Redux.Store<State>` using an `ReactiveKit.Variable<State>` stream.
+Uses `createStateStream` to create a `Redux.Store<State>` using a `ReactiveKit.Observable<State>` stream.
 
 
 ### createStateStream
@@ -96,7 +96,7 @@ public func createStream<State>(state: State)
 	-> StateStream<State>
 ```
 
-Accepts a `State` and returns `Redux.StateStream<State>` using an `ReactiveKit.Variable<State>` as the stream provider.
+Accepts a `State` and returns `Redux.StateStream<State>` using a `ReactiveKit.Observable<State>` as the stream provider.
 
 ### createDisposable
 
@@ -105,6 +105,4 @@ func createDisposable(disposable: ReactiveKit.Disposable)
 	-> ReduxDisposable
 ```
 
-Accepts an `ReactiveKit.Disposable` and returns it wrapped as a `ReduxDisposable`.
-
-The returned disposable only supports the `disposable.dispose()` function and does not return disposed state (`disposable.disposed` always returns `false`).
+Accepts a `ReactiveKit.DisposableType` and returns it wrapped as a `ReduxDisposable`.

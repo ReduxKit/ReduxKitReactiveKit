@@ -33,7 +33,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "7398B0DF1C2622FE000ED3FD"
-               BuildableName = "ReduxReactiveKit.xctest"
+               BuildableName = "ReduxReactiveKitTests.xctest"
                BlueprintName = "ReduxReactiveKit-tvOSTests"
                ReferencedContainer = "container:ReduxReactiveKit.xcodeproj">
             </BuildableReference>
