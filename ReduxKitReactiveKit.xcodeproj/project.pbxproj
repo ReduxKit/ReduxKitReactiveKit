@@ -88,6 +88,7 @@
 		7398B1221C262C2A000ED3FD /* ReduxKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = ReduxKit.framework; path = Carthage/Build/Mac/ReduxKit.framework; sourceTree = "<group>"; };
 		7398B1271C262C58000ED3FD /* ReactiveKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = ReactiveKit.framework; path = Carthage/Build/watchOS/ReactiveKit.framework; sourceTree = "<group>"; };
 		7398B1281C262C58000ED3FD /* ReduxKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = ReduxKit.framework; path = Carthage/Build/watchOS/ReduxKit.framework; sourceTree = "<group>"; };
+		73D6BBBC1C2A5D9900FAA686 /* ReduxKitReactiveKit.podspec */ = {isa = PBXFileReference; lastKnownFileType = text; path = ReduxKitReactiveKit.podspec; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -167,6 +168,7 @@
 				7398B1161C262694000ED3FD /* README.md */,
 				7398B1131C262694000ED3FD /* Cartfile */,
 				7398B1141C262694000ED3FD /* Cartfile.resolved */,
+				73D6BBBC1C2A5D9900FAA686 /* ReduxKitReactiveKit.podspec */,
 				7398B0AD1C2622C5000ED3FD /* ReduxKitReactiveKit */,
 				7398B0B91C2622C5000ED3FD /* ReduxKitReactiveKitTests */,
 				7398B11B1C262C04000ED3FD /* Dependencies iOS */,
