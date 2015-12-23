@@ -7,35 +7,35 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		7304BD301C26359A00538814 /* ReduxReactiveKitTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7398B0BA1C2622C5000ED3FD /* ReduxReactiveKitTests.swift */; };
+		7304BD301C26359A00538814 /* ReduxKitReactiveKitTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7398B0BA1C2622C5000ED3FD /* ReduxKitReactiveKitTests.swift */; };
 		7304BD311C26359D00538814 /* Mocks.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7398B10F1C262646000ED3FD /* Mocks.swift */; };
-		7398B0B61C2622C5000ED3FD /* ReduxReactiveKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7398B0AB1C2622C5000ED3FD /* ReduxReactiveKit.framework */; };
-		7398B0E11C2622FE000ED3FD /* ReduxReactiveKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7398B0D71C2622FE000ED3FD /* ReduxReactiveKit.framework */; };
-		7398B0FD1C262310000ED3FD /* ReduxReactiveKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7398B0F31C262310000ED3FD /* ReduxReactiveKit.framework */; };
-		7398B10B1C2623A1000ED3FD /* ReduxReactiveKit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7398B10A1C2623A1000ED3FD /* ReduxReactiveKit.swift */; };
-		7398B10C1C2623A1000ED3FD /* ReduxReactiveKit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7398B10A1C2623A1000ED3FD /* ReduxReactiveKit.swift */; };
-		7398B10D1C2623A1000ED3FD /* ReduxReactiveKit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7398B10A1C2623A1000ED3FD /* ReduxReactiveKit.swift */; };
-		7398B10E1C2623A1000ED3FD /* ReduxReactiveKit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7398B10A1C2623A1000ED3FD /* ReduxReactiveKit.swift */; };
+		7398B0B61C2622C5000ED3FD /* ReduxKitReactiveKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7398B0AB1C2622C5000ED3FD /* ReduxKitReactiveKit.framework */; };
+		7398B0E11C2622FE000ED3FD /* ReduxKitReactiveKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7398B0D71C2622FE000ED3FD /* ReduxKitReactiveKit.framework */; };
+		7398B0FD1C262310000ED3FD /* ReduxKitReactiveKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7398B0F31C262310000ED3FD /* ReduxKitReactiveKit.framework */; };
+		7398B10B1C2623A1000ED3FD /* ReduxKitReactiveKit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7398B10A1C2623A1000ED3FD /* ReduxKitReactiveKit.swift */; };
+		7398B10C1C2623A1000ED3FD /* ReduxKitReactiveKit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7398B10A1C2623A1000ED3FD /* ReduxKitReactiveKit.swift */; };
+		7398B10D1C2623A1000ED3FD /* ReduxKitReactiveKit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7398B10A1C2623A1000ED3FD /* ReduxKitReactiveKit.swift */; };
+		7398B10E1C2623A1000ED3FD /* ReduxKitReactiveKit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7398B10A1C2623A1000ED3FD /* ReduxKitReactiveKit.swift */; };
 		7398B1191C262BFB000ED3FD /* ReactiveKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7398B1171C262BFB000ED3FD /* ReactiveKit.framework */; };
-		7398B11A1C262BFB000ED3FD /* Redux.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7398B1181C262BFB000ED3FD /* Redux.framework */; };
+		7398B11A1C262BFB000ED3FD /* ReduxKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7398B1181C262BFB000ED3FD /* ReduxKit.framework */; };
 		7398B11E1C262C19000ED3FD /* ReactiveKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7398B11C1C262C19000ED3FD /* ReactiveKit.framework */; };
-		7398B11F1C262C19000ED3FD /* Redux.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7398B11D1C262C19000ED3FD /* Redux.framework */; };
+		7398B11F1C262C19000ED3FD /* ReduxKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7398B11D1C262C19000ED3FD /* ReduxKit.framework */; };
 		7398B1231C262C2A000ED3FD /* ReactiveKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7398B1211C262C2A000ED3FD /* ReactiveKit.framework */; };
-		7398B1241C262C2A000ED3FD /* Redux.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7398B1221C262C2A000ED3FD /* Redux.framework */; };
+		7398B1241C262C2A000ED3FD /* ReduxKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7398B1221C262C2A000ED3FD /* ReduxKit.framework */; };
 		7398B1291C262C58000ED3FD /* ReactiveKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7398B1271C262C58000ED3FD /* ReactiveKit.framework */; };
-		7398B12A1C262C58000ED3FD /* Redux.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7398B1281C262C58000ED3FD /* Redux.framework */; };
-		7398B12B1C262D15000ED3FD /* ReduxReactiveKitTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7398B0BA1C2622C5000ED3FD /* ReduxReactiveKitTests.swift */; };
-		7398B12C1C262D16000ED3FD /* ReduxReactiveKitTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7398B0BA1C2622C5000ED3FD /* ReduxReactiveKitTests.swift */; };
+		7398B12A1C262C58000ED3FD /* ReduxKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7398B1281C262C58000ED3FD /* ReduxKit.framework */; };
+		7398B12B1C262D15000ED3FD /* ReduxKitReactiveKitTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7398B0BA1C2622C5000ED3FD /* ReduxKitReactiveKitTests.swift */; };
+		7398B12C1C262D16000ED3FD /* ReduxKitReactiveKitTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7398B0BA1C2622C5000ED3FD /* ReduxKitReactiveKitTests.swift */; };
 		7398B12D1C262D48000ED3FD /* ReactiveKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7398B1171C262BFB000ED3FD /* ReactiveKit.framework */; };
-		7398B12E1C262D48000ED3FD /* Redux.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7398B1181C262BFB000ED3FD /* Redux.framework */; };
+		7398B12E1C262D48000ED3FD /* ReduxKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7398B1181C262BFB000ED3FD /* ReduxKit.framework */; };
 		7398B12F1C262D4C000ED3FD /* ReactiveKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7398B1211C262C2A000ED3FD /* ReactiveKit.framework */; };
-		7398B1301C262D4C000ED3FD /* Redux.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7398B1221C262C2A000ED3FD /* Redux.framework */; };
+		7398B1301C262D4C000ED3FD /* ReduxKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7398B1221C262C2A000ED3FD /* ReduxKit.framework */; };
 		7398B1311C262D4F000ED3FD /* ReactiveKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7398B11C1C262C19000ED3FD /* ReactiveKit.framework */; };
-		7398B1321C262D4F000ED3FD /* Redux.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7398B11D1C262C19000ED3FD /* Redux.framework */; };
+		7398B1321C262D4F000ED3FD /* ReduxKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7398B11D1C262C19000ED3FD /* ReduxKit.framework */; };
 		7398B13E1C2630A2000ED3FD /* Mocks.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7398B10F1C262646000ED3FD /* Mocks.swift */; };
 		7398B13F1C2630A3000ED3FD /* Mocks.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7398B10F1C262646000ED3FD /* Mocks.swift */; };
-		7398B1401C263317000ED3FD /* ReduxReactiveKit.h in Headers */ = {isa = PBXBuildFile; fileRef = 7398B0AE1C2622C5000ED3FD /* ReduxReactiveKit.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		7398B1411C2633AC000ED3FD /* ReduxReactiveKit.h in Headers */ = {isa = PBXBuildFile; fileRef = 7398B0AE1C2622C5000ED3FD /* ReduxReactiveKit.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		7398B1401C263317000ED3FD /* ReduxKitReactiveKit.h in Headers */ = {isa = PBXBuildFile; fileRef = 7398B0AE1C2622C5000ED3FD /* ReduxKitReactiveKit.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		7398B1411C2633AC000ED3FD /* ReduxKitReactiveKit.h in Headers */ = {isa = PBXBuildFile; fileRef = 7398B0AE1C2622C5000ED3FD /* ReduxKitReactiveKit.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,50 +44,51 @@
 			containerPortal = 7398B0A21C2622C5000ED3FD /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 7398B0AA1C2622C5000ED3FD;
-			remoteInfo = ReduxReactiveKit;
+			remoteInfo = ReduxKitReactiveKit;
 		};
 		7398B0E21C2622FE000ED3FD /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 7398B0A21C2622C5000ED3FD /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 7398B0D61C2622FE000ED3FD;
-			remoteInfo = ReduxReactiveKit;
+			remoteInfo = ReduxKitReactiveKit;
 		};
 		7398B0FE1C262310000ED3FD /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 7398B0A21C2622C5000ED3FD /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 7398B0F21C262310000ED3FD;
-			remoteInfo = ReduxReactiveKit;
+			remoteInfo = ReduxKitReactiveKit;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		7398B0AB1C2622C5000ED3FD /* ReduxReactiveKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = ReduxReactiveKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		7398B0AE1C2622C5000ED3FD /* ReduxReactiveKit.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ReduxReactiveKit.h; sourceTree = "<group>"; };
+		7398B0AB1C2622C5000ED3FD /* ReduxKitReactiveKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = ReduxKitReactiveKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		7398B0AE1C2622C5000ED3FD /* ReduxKitReactiveKit.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ReduxKitReactiveKit.h; sourceTree = "<group>"; };
 		7398B0B01C2622C5000ED3FD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		7398B0B51C2622C5000ED3FD /* ReduxReactiveKitTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ReduxReactiveKitTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		7398B0BA1C2622C5000ED3FD /* ReduxReactiveKitTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReduxReactiveKitTests.swift; sourceTree = "<group>"; };
+		7398B0B51C2622C5000ED3FD /* ReduxKitReactiveKitTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ReduxKitReactiveKitTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		7398B0BA1C2622C5000ED3FD /* ReduxKitReactiveKitTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReduxKitReactiveKitTests.swift; sourceTree = "<group>"; };
 		7398B0BC1C2622C5000ED3FD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		7398B0CA1C2622F0000ED3FD /* ReduxReactiveKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = ReduxReactiveKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		7398B0D71C2622FE000ED3FD /* ReduxReactiveKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = ReduxReactiveKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		7398B0E01C2622FE000ED3FD /* ReduxReactiveKitTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ReduxReactiveKitTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		7398B0F31C262310000ED3FD /* ReduxReactiveKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = ReduxReactiveKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		7398B0FC1C262310000ED3FD /* ReduxReactiveKitTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ReduxReactiveKitTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		7398B10A1C2623A1000ED3FD /* ReduxReactiveKit.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ReduxReactiveKit.swift; sourceTree = "<group>"; };
+		7398B0CA1C2622F0000ED3FD /* ReduxKitReactiveKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = ReduxKitReactiveKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		7398B0D71C2622FE000ED3FD /* ReduxKitReactiveKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = ReduxKitReactiveKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		7398B0E01C2622FE000ED3FD /* ReduxKitReactiveKitTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ReduxKitReactiveKitTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		7398B0F31C262310000ED3FD /* ReduxKitReactiveKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = ReduxKitReactiveKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		7398B0FC1C262310000ED3FD /* ReduxKitReactiveKitTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ReduxKitReactiveKitTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		7398B10A1C2623A1000ED3FD /* ReduxKitReactiveKit.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ReduxKitReactiveKit.swift; sourceTree = "<group>"; };
 		7398B10F1C262646000ED3FD /* Mocks.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Mocks.swift; sourceTree = "<group>"; };
 		7398B1131C262694000ED3FD /* Cartfile */ = {isa = PBXFileReference; lastKnownFileType = text; path = Cartfile; sourceTree = "<group>"; };
 		7398B1141C262694000ED3FD /* Cartfile.resolved */ = {isa = PBXFileReference; lastKnownFileType = text; path = Cartfile.resolved; sourceTree = "<group>"; };
 		7398B1151C262694000ED3FD /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		7398B1161C262694000ED3FD /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		7398B1171C262BFB000ED3FD /* ReactiveKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = ReactiveKit.framework; path = Carthage/Build/iOS/ReactiveKit.framework; sourceTree = "<group>"; };
-		7398B1181C262BFB000ED3FD /* Redux.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Redux.framework; path = Carthage/Build/iOS/Redux.framework; sourceTree = "<group>"; };
+		7398B1181C262BFB000ED3FD /* ReduxKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = ReduxKit.framework; path = Carthage/Build/iOS/ReduxKit.framework; sourceTree = "<group>"; };
 		7398B11C1C262C19000ED3FD /* ReactiveKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = ReactiveKit.framework; path = Carthage/Build/tvOS/ReactiveKit.framework; sourceTree = "<group>"; };
-		7398B11D1C262C19000ED3FD /* Redux.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Redux.framework; path = Carthage/Build/tvOS/Redux.framework; sourceTree = "<group>"; };
+		7398B11D1C262C19000ED3FD /* ReduxKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = ReduxKit.framework; path = Carthage/Build/tvOS/ReduxKit.framework; sourceTree = "<group>"; };
 		7398B1211C262C2A000ED3FD /* ReactiveKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = ReactiveKit.framework; path = Carthage/Build/Mac/ReactiveKit.framework; sourceTree = "<group>"; };
-		7398B1221C262C2A000ED3FD /* Redux.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Redux.framework; path = Carthage/Build/Mac/Redux.framework; sourceTree = "<group>"; };
+		7398B1221C262C2A000ED3FD /* ReduxKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = ReduxKit.framework; path = Carthage/Build/Mac/ReduxKit.framework; sourceTree = "<group>"; };
 		7398B1271C262C58000ED3FD /* ReactiveKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = ReactiveKit.framework; path = Carthage/Build/watchOS/ReactiveKit.framework; sourceTree = "<group>"; };
-		7398B1281C262C58000ED3FD /* Redux.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Redux.framework; path = Carthage/Build/watchOS/Redux.framework; sourceTree = "<group>"; };
+		7398B1281C262C58000ED3FD /* ReduxKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = ReduxKit.framework; path = Carthage/Build/watchOS/ReduxKit.framework; sourceTree = "<group>"; };
+		73D6BBBC1C2A5D9900FAA686 /* ReduxKitReactiveKit.podspec */ = {isa = PBXFileReference; lastKnownFileType = text; path = ReduxKitReactiveKit.podspec; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,7 +97,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7398B1191C262BFB000ED3FD /* ReactiveKit.framework in Frameworks */,
-				7398B11A1C262BFB000ED3FD /* Redux.framework in Frameworks */,
+				7398B11A1C262BFB000ED3FD /* ReduxKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -104,9 +105,9 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7398B12E1C262D48000ED3FD /* Redux.framework in Frameworks */,
+				7398B12E1C262D48000ED3FD /* ReduxKit.framework in Frameworks */,
 				7398B12D1C262D48000ED3FD /* ReactiveKit.framework in Frameworks */,
-				7398B0B61C2622C5000ED3FD /* ReduxReactiveKit.framework in Frameworks */,
+				7398B0B61C2622C5000ED3FD /* ReduxKitReactiveKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -115,7 +116,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7398B1291C262C58000ED3FD /* ReactiveKit.framework in Frameworks */,
-				7398B12A1C262C58000ED3FD /* Redux.framework in Frameworks */,
+				7398B12A1C262C58000ED3FD /* ReduxKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -124,7 +125,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7398B11E1C262C19000ED3FD /* ReactiveKit.framework in Frameworks */,
-				7398B11F1C262C19000ED3FD /* Redux.framework in Frameworks */,
+				7398B11F1C262C19000ED3FD /* ReduxKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -132,9 +133,9 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7398B1321C262D4F000ED3FD /* Redux.framework in Frameworks */,
+				7398B1321C262D4F000ED3FD /* ReduxKit.framework in Frameworks */,
 				7398B1311C262D4F000ED3FD /* ReactiveKit.framework in Frameworks */,
-				7398B0E11C2622FE000ED3FD /* ReduxReactiveKit.framework in Frameworks */,
+				7398B0E11C2622FE000ED3FD /* ReduxKitReactiveKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -143,7 +144,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7398B1231C262C2A000ED3FD /* ReactiveKit.framework in Frameworks */,
-				7398B1241C262C2A000ED3FD /* Redux.framework in Frameworks */,
+				7398B1241C262C2A000ED3FD /* ReduxKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -151,9 +152,9 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7398B1301C262D4C000ED3FD /* Redux.framework in Frameworks */,
+				7398B1301C262D4C000ED3FD /* ReduxKit.framework in Frameworks */,
 				7398B12F1C262D4C000ED3FD /* ReactiveKit.framework in Frameworks */,
-				7398B0FD1C262310000ED3FD /* ReduxReactiveKit.framework in Frameworks */,
+				7398B0FD1C262310000ED3FD /* ReduxKitReactiveKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -167,10 +168,11 @@
 				7398B1161C262694000ED3FD /* README.md */,
 				7398B1131C262694000ED3FD /* Cartfile */,
 				7398B1141C262694000ED3FD /* Cartfile.resolved */,
-				7398B0AD1C2622C5000ED3FD /* ReduxReactiveKit */,
-				7398B0B91C2622C5000ED3FD /* ReduxReactiveKitTests */,
+				73D6BBBC1C2A5D9900FAA686 /* ReduxKitReactiveKit.podspec */,
+				7398B0AD1C2622C5000ED3FD /* ReduxKitReactiveKit */,
+				7398B0B91C2622C5000ED3FD /* ReduxKitReactiveKitTests */,
 				7398B11B1C262C04000ED3FD /* Dependencies iOS */,
-				7398B1251C262C37000ED3FD /* Dependencies OSX */,
+				7398B1251C262C37000ED3FD /* Dependencies Mac */,
 				7398B1201C262C1E000ED3FD /* Dependencies tvOS */,
 				7398B1261C262C46000ED3FD /* Dependencies watchOS */,
 				7398B0AC1C2622C5000ED3FD /* Products */,
@@ -180,42 +182,42 @@
 		7398B0AC1C2622C5000ED3FD /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				7398B0AB1C2622C5000ED3FD /* ReduxReactiveKit.framework */,
-				7398B0B51C2622C5000ED3FD /* ReduxReactiveKitTests.xctest */,
-				7398B0CA1C2622F0000ED3FD /* ReduxReactiveKit.framework */,
-				7398B0D71C2622FE000ED3FD /* ReduxReactiveKit.framework */,
-				7398B0E01C2622FE000ED3FD /* ReduxReactiveKitTests.xctest */,
-				7398B0F31C262310000ED3FD /* ReduxReactiveKit.framework */,
-				7398B0FC1C262310000ED3FD /* ReduxReactiveKitTests.xctest */,
+				7398B0AB1C2622C5000ED3FD /* ReduxKitReactiveKit.framework */,
+				7398B0B51C2622C5000ED3FD /* ReduxKitReactiveKitTests.xctest */,
+				7398B0CA1C2622F0000ED3FD /* ReduxKitReactiveKit.framework */,
+				7398B0D71C2622FE000ED3FD /* ReduxKitReactiveKit.framework */,
+				7398B0E01C2622FE000ED3FD /* ReduxKitReactiveKitTests.xctest */,
+				7398B0F31C262310000ED3FD /* ReduxKitReactiveKit.framework */,
+				7398B0FC1C262310000ED3FD /* ReduxKitReactiveKitTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		7398B0AD1C2622C5000ED3FD /* ReduxReactiveKit */ = {
+		7398B0AD1C2622C5000ED3FD /* ReduxKitReactiveKit */ = {
 			isa = PBXGroup;
 			children = (
-				7398B0AE1C2622C5000ED3FD /* ReduxReactiveKit.h */,
+				7398B0AE1C2622C5000ED3FD /* ReduxKitReactiveKit.h */,
 				7398B0B01C2622C5000ED3FD /* Info.plist */,
-				7398B10A1C2623A1000ED3FD /* ReduxReactiveKit.swift */,
+				7398B10A1C2623A1000ED3FD /* ReduxKitReactiveKit.swift */,
 			);
-			path = ReduxReactiveKit;
+			path = ReduxKitReactiveKit;
 			sourceTree = "<group>";
 		};
-		7398B0B91C2622C5000ED3FD /* ReduxReactiveKitTests */ = {
+		7398B0B91C2622C5000ED3FD /* ReduxKitReactiveKitTests */ = {
 			isa = PBXGroup;
 			children = (
 				7398B0BC1C2622C5000ED3FD /* Info.plist */,
 				7398B10F1C262646000ED3FD /* Mocks.swift */,
-				7398B0BA1C2622C5000ED3FD /* ReduxReactiveKitTests.swift */,
+				7398B0BA1C2622C5000ED3FD /* ReduxKitReactiveKitTests.swift */,
 			);
-			path = ReduxReactiveKitTests;
+			path = ReduxKitReactiveKitTests;
 			sourceTree = "<group>";
 		};
 		7398B11B1C262C04000ED3FD /* Dependencies iOS */ = {
 			isa = PBXGroup;
 			children = (
 				7398B1171C262BFB000ED3FD /* ReactiveKit.framework */,
-				7398B1181C262BFB000ED3FD /* Redux.framework */,
+				7398B1181C262BFB000ED3FD /* ReduxKit.framework */,
 			);
 			name = "Dependencies iOS";
 			sourceTree = "<group>";
@@ -224,25 +226,25 @@
 			isa = PBXGroup;
 			children = (
 				7398B11C1C262C19000ED3FD /* ReactiveKit.framework */,
-				7398B11D1C262C19000ED3FD /* Redux.framework */,
+				7398B11D1C262C19000ED3FD /* ReduxKit.framework */,
 			);
 			name = "Dependencies tvOS";
 			sourceTree = "<group>";
 		};
-		7398B1251C262C37000ED3FD /* Dependencies OSX */ = {
+		7398B1251C262C37000ED3FD /* Dependencies Mac */ = {
 			isa = PBXGroup;
 			children = (
 				7398B1211C262C2A000ED3FD /* ReactiveKit.framework */,
-				7398B1221C262C2A000ED3FD /* Redux.framework */,
+				7398B1221C262C2A000ED3FD /* ReduxKit.framework */,
 			);
-			name = "Dependencies OSX";
+			name = "Dependencies Mac";
 			sourceTree = "<group>";
 		};
 		7398B1261C262C46000ED3FD /* Dependencies watchOS */ = {
 			isa = PBXGroup;
 			children = (
 				7398B1271C262C58000ED3FD /* ReactiveKit.framework */,
-				7398B1281C262C58000ED3FD /* Redux.framework */,
+				7398B1281C262C58000ED3FD /* ReduxKit.framework */,
 			);
 			name = "Dependencies watchOS";
 			sourceTree = "<group>";
@@ -254,7 +256,7 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7398B1401C263317000ED3FD /* ReduxReactiveKit.h in Headers */,
+				7398B1401C263317000ED3FD /* ReduxKitReactiveKit.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -276,16 +278,16 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7398B1411C2633AC000ED3FD /* ReduxReactiveKit.h in Headers */,
+				7398B1411C2633AC000ED3FD /* ReduxKitReactiveKit.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
-		7398B0AA1C2622C5000ED3FD /* ReduxReactiveKit-iOS */ = {
+		7398B0AA1C2622C5000ED3FD /* ReduxKitReactiveKit-iOS */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 7398B0BF1C2622C5000ED3FD /* Build configuration list for PBXNativeTarget "ReduxReactiveKit-iOS" */;
+			buildConfigurationList = 7398B0BF1C2622C5000ED3FD /* Build configuration list for PBXNativeTarget "ReduxKitReactiveKit-iOS" */;
 			buildPhases = (
 				7398B0A61C2622C5000ED3FD /* Sources */,
 				7398B0A71C2622C5000ED3FD /* Frameworks */,
@@ -297,14 +299,14 @@
 			);
 			dependencies = (
 			);
-			name = "ReduxReactiveKit-iOS";
-			productName = ReduxReactiveKit;
-			productReference = 7398B0AB1C2622C5000ED3FD /* ReduxReactiveKit.framework */;
+			name = "ReduxKitReactiveKit-iOS";
+			productName = ReduxKitReactiveKit;
+			productReference = 7398B0AB1C2622C5000ED3FD /* ReduxKitReactiveKit.framework */;
 			productType = "com.apple.product-type.framework";
 		};
-		7398B0B41C2622C5000ED3FD /* ReduxReactiveKit-iOSTests */ = {
+		7398B0B41C2622C5000ED3FD /* ReduxKitReactiveKit-iOSTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 7398B0C21C2622C5000ED3FD /* Build configuration list for PBXNativeTarget "ReduxReactiveKit-iOSTests" */;
+			buildConfigurationList = 7398B0C21C2622C5000ED3FD /* Build configuration list for PBXNativeTarget "ReduxKitReactiveKit-iOSTests" */;
 			buildPhases = (
 				7398B0B11C2622C5000ED3FD /* Sources */,
 				7398B0B21C2622C5000ED3FD /* Frameworks */,
@@ -316,14 +318,14 @@
 			dependencies = (
 				7398B0B81C2622C5000ED3FD /* PBXTargetDependency */,
 			);
-			name = "ReduxReactiveKit-iOSTests";
-			productName = ReduxReactiveKitTests;
-			productReference = 7398B0B51C2622C5000ED3FD /* ReduxReactiveKitTests.xctest */;
+			name = "ReduxKitReactiveKit-iOSTests";
+			productName = ReduxKitReactiveKitTests;
+			productReference = 7398B0B51C2622C5000ED3FD /* ReduxKitReactiveKitTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		7398B0C91C2622F0000ED3FD /* ReduxReactiveKit-watchOS */ = {
+		7398B0C91C2622F0000ED3FD /* ReduxKitReactiveKit-watchOS */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 7398B0CF1C2622F0000ED3FD /* Build configuration list for PBXNativeTarget "ReduxReactiveKit-watchOS" */;
+			buildConfigurationList = 7398B0CF1C2622F0000ED3FD /* Build configuration list for PBXNativeTarget "ReduxKitReactiveKit-watchOS" */;
 			buildPhases = (
 				7398B0C51C2622F0000ED3FD /* Sources */,
 				7398B0C61C2622F0000ED3FD /* Frameworks */,
@@ -335,14 +337,14 @@
 			);
 			dependencies = (
 			);
-			name = "ReduxReactiveKit-watchOS";
-			productName = ReduxReactiveKit;
-			productReference = 7398B0CA1C2622F0000ED3FD /* ReduxReactiveKit.framework */;
+			name = "ReduxKitReactiveKit-watchOS";
+			productName = ReduxKitReactiveKit;
+			productReference = 7398B0CA1C2622F0000ED3FD /* ReduxKitReactiveKit.framework */;
 			productType = "com.apple.product-type.framework";
 		};
-		7398B0D61C2622FE000ED3FD /* ReduxReactiveKit-tvOS */ = {
+		7398B0D61C2622FE000ED3FD /* ReduxKitReactiveKit-tvOS */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 7398B0E81C2622FE000ED3FD /* Build configuration list for PBXNativeTarget "ReduxReactiveKit-tvOS" */;
+			buildConfigurationList = 7398B0E81C2622FE000ED3FD /* Build configuration list for PBXNativeTarget "ReduxKitReactiveKit-tvOS" */;
 			buildPhases = (
 				7398B0D21C2622FE000ED3FD /* Sources */,
 				7398B0D31C2622FE000ED3FD /* Frameworks */,
@@ -354,14 +356,14 @@
 			);
 			dependencies = (
 			);
-			name = "ReduxReactiveKit-tvOS";
-			productName = ReduxReactiveKit;
-			productReference = 7398B0D71C2622FE000ED3FD /* ReduxReactiveKit.framework */;
+			name = "ReduxKitReactiveKit-tvOS";
+			productName = ReduxKitReactiveKit;
+			productReference = 7398B0D71C2622FE000ED3FD /* ReduxKitReactiveKit.framework */;
 			productType = "com.apple.product-type.framework";
 		};
-		7398B0DF1C2622FE000ED3FD /* ReduxReactiveKit-tvOSTests */ = {
+		7398B0DF1C2622FE000ED3FD /* ReduxKitReactiveKit-tvOSTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 7398B0EB1C2622FE000ED3FD /* Build configuration list for PBXNativeTarget "ReduxReactiveKit-tvOSTests" */;
+			buildConfigurationList = 7398B0EB1C2622FE000ED3FD /* Build configuration list for PBXNativeTarget "ReduxKitReactiveKit-tvOSTests" */;
 			buildPhases = (
 				7398B0DC1C2622FE000ED3FD /* Sources */,
 				7398B0DD1C2622FE000ED3FD /* Frameworks */,
@@ -373,14 +375,14 @@
 			dependencies = (
 				7398B0E31C2622FE000ED3FD /* PBXTargetDependency */,
 			);
-			name = "ReduxReactiveKit-tvOSTests";
-			productName = ReduxReactiveKitTests;
-			productReference = 7398B0E01C2622FE000ED3FD /* ReduxReactiveKitTests.xctest */;
+			name = "ReduxKitReactiveKit-tvOSTests";
+			productName = ReduxKitReactiveKitTests;
+			productReference = 7398B0E01C2622FE000ED3FD /* ReduxKitReactiveKitTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		7398B0F21C262310000ED3FD /* ReduxReactiveKit-OSX */ = {
+		7398B0F21C262310000ED3FD /* ReduxKitReactiveKit-Mac */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 7398B1041C262310000ED3FD /* Build configuration list for PBXNativeTarget "ReduxReactiveKit-OSX" */;
+			buildConfigurationList = 7398B1041C262310000ED3FD /* Build configuration list for PBXNativeTarget "ReduxKitReactiveKit-Mac" */;
 			buildPhases = (
 				7398B0EE1C262310000ED3FD /* Sources */,
 				7398B0EF1C262310000ED3FD /* Frameworks */,
@@ -392,14 +394,14 @@
 			);
 			dependencies = (
 			);
-			name = "ReduxReactiveKit-OSX";
-			productName = ReduxReactiveKit;
-			productReference = 7398B0F31C262310000ED3FD /* ReduxReactiveKit.framework */;
+			name = "ReduxKitReactiveKit-Mac";
+			productName = ReduxKitReactiveKit;
+			productReference = 7398B0F31C262310000ED3FD /* ReduxKitReactiveKit.framework */;
 			productType = "com.apple.product-type.framework";
 		};
-		7398B0FB1C262310000ED3FD /* ReduxReactiveKit-OSXTests */ = {
+		7398B0FB1C262310000ED3FD /* ReduxKitReactiveKit-MacTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 7398B1071C262310000ED3FD /* Build configuration list for PBXNativeTarget "ReduxReactiveKit-OSXTests" */;
+			buildConfigurationList = 7398B1071C262310000ED3FD /* Build configuration list for PBXNativeTarget "ReduxKitReactiveKit-MacTests" */;
 			buildPhases = (
 				7398B0F81C262310000ED3FD /* Sources */,
 				7398B0F91C262310000ED3FD /* Frameworks */,
@@ -411,9 +413,9 @@
 			dependencies = (
 				7398B0FF1C262310000ED3FD /* PBXTargetDependency */,
 			);
-			name = "ReduxReactiveKit-OSXTests";
-			productName = ReduxReactiveKitTests;
-			productReference = 7398B0FC1C262310000ED3FD /* ReduxReactiveKitTests.xctest */;
+			name = "ReduxKitReactiveKit-MacTests";
+			productName = ReduxKitReactiveKitTests;
+			productReference = 7398B0FC1C262310000ED3FD /* ReduxKitReactiveKitTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
@@ -449,7 +451,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 7398B0A51C2622C5000ED3FD /* Build configuration list for PBXProject "ReduxReactiveKit" */;
+			buildConfigurationList = 7398B0A51C2622C5000ED3FD /* Build configuration list for PBXProject "ReduxKitReactiveKit" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -461,13 +463,13 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				7398B0AA1C2622C5000ED3FD /* ReduxReactiveKit-iOS */,
-				7398B0B41C2622C5000ED3FD /* ReduxReactiveKit-iOSTests */,
-				7398B0F21C262310000ED3FD /* ReduxReactiveKit-OSX */,
-				7398B0FB1C262310000ED3FD /* ReduxReactiveKit-OSXTests */,
-				7398B0D61C2622FE000ED3FD /* ReduxReactiveKit-tvOS */,
-				7398B0DF1C2622FE000ED3FD /* ReduxReactiveKit-tvOSTests */,
-				7398B0C91C2622F0000ED3FD /* ReduxReactiveKit-watchOS */,
+				7398B0AA1C2622C5000ED3FD /* ReduxKitReactiveKit-iOS */,
+				7398B0B41C2622C5000ED3FD /* ReduxKitReactiveKit-iOSTests */,
+				7398B0F21C262310000ED3FD /* ReduxKitReactiveKit-Mac */,
+				7398B0FB1C262310000ED3FD /* ReduxKitReactiveKit-MacTests */,
+				7398B0D61C2622FE000ED3FD /* ReduxKitReactiveKit-tvOS */,
+				7398B0DF1C2622FE000ED3FD /* ReduxKitReactiveKit-tvOSTests */,
+				7398B0C91C2622F0000ED3FD /* ReduxKitReactiveKit-watchOS */,
 			);
 		};
 /* End PBXProject section */
@@ -531,7 +533,7 @@
 			files = (
 			);
 			inputPaths = (
-				"$(SRCROOT)/Carthage/Build/iOS/Redux.framework",
+				"$(SRCROOT)/Carthage/Build/iOS/ReduxKit.framework",
 				"$(SRCROOT)/Carthage/Build/iOS/ReactiveKit.framework",
 			);
 			outputPaths = (
@@ -546,7 +548,7 @@
 			files = (
 			);
 			inputPaths = (
-				"$(SRCROOT)/Carthage/Build/iOS/Redux.framework",
+				"$(SRCROOT)/Carthage/Build/iOS/ReduxKit.framework",
 				"$(SRCROOT)/Carthage/Build/iOS/ReactiveKit.framework",
 			);
 			outputPaths = (
@@ -561,7 +563,7 @@
 			files = (
 			);
 			inputPaths = (
-				"$(SRCROOT)/Carthage/Build/Mac/Redux.framework",
+				"$(SRCROOT)/Carthage/Build/Mac/ReduxKit.framework",
 				"$(SRCROOT)/Carthage/Build/Mac/ReactiveKit.framework",
 			);
 			outputPaths = (
@@ -576,7 +578,7 @@
 			files = (
 			);
 			inputPaths = (
-				"$(SRCROOT)/Carthage/Build/Mac/Redux.framework",
+				"$(SRCROOT)/Carthage/Build/Mac/ReduxKit.framework",
 				"$(SRCROOT)/Carthage/Build/Mac/ReactiveKit.framework",
 			);
 			outputPaths = (
@@ -591,7 +593,7 @@
 			files = (
 			);
 			inputPaths = (
-				"$(SRCROOT)/Carthage/Build/tvOS/Redux.framework",
+				"$(SRCROOT)/Carthage/Build/tvOS/ReduxKit.framework",
 				"$(SRCROOT)/Carthage/Build/tvOS/ReactiveKit.framework",
 			);
 			outputPaths = (
@@ -606,7 +608,7 @@
 			files = (
 			);
 			inputPaths = (
-				"$(SRCROOT)/Carthage/Build/tvOS/Redux.framework",
+				"$(SRCROOT)/Carthage/Build/tvOS/ReduxKit.framework",
 				"$(SRCROOT)/Carthage/Build/tvOS/ReactiveKit.framework",
 			);
 			outputPaths = (
@@ -621,7 +623,7 @@
 			files = (
 			);
 			inputPaths = (
-				"$(SRCROOT)/Carthage/Build/watchOS/Redux.framework",
+				"$(SRCROOT)/Carthage/Build/watchOS/ReduxKit.framework",
 				"$(SRCROOT)/Carthage/Build/watchOS/ReactiveKit.framework",
 			);
 			outputPaths = (
@@ -637,7 +639,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7398B10B1C2623A1000ED3FD /* ReduxReactiveKit.swift in Sources */,
+				7398B10B1C2623A1000ED3FD /* ReduxKitReactiveKit.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -645,7 +647,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7304BD301C26359A00538814 /* ReduxReactiveKitTests.swift in Sources */,
+				7304BD301C26359A00538814 /* ReduxKitReactiveKitTests.swift in Sources */,
 				7304BD311C26359D00538814 /* Mocks.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -654,7 +656,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7398B10C1C2623A1000ED3FD /* ReduxReactiveKit.swift in Sources */,
+				7398B10C1C2623A1000ED3FD /* ReduxKitReactiveKit.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -662,7 +664,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7398B10D1C2623A1000ED3FD /* ReduxReactiveKit.swift in Sources */,
+				7398B10D1C2623A1000ED3FD /* ReduxKitReactiveKit.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -670,7 +672,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7398B12C1C262D16000ED3FD /* ReduxReactiveKitTests.swift in Sources */,
+				7398B12C1C262D16000ED3FD /* ReduxKitReactiveKitTests.swift in Sources */,
 				7398B13F1C2630A3000ED3FD /* Mocks.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -679,7 +681,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7398B10E1C2623A1000ED3FD /* ReduxReactiveKit.swift in Sources */,
+				7398B10E1C2623A1000ED3FD /* ReduxKitReactiveKit.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -687,7 +689,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7398B12B1C262D15000ED3FD /* ReduxReactiveKitTests.swift in Sources */,
+				7398B12B1C262D15000ED3FD /* ReduxKitReactiveKitTests.swift in Sources */,
 				7398B13E1C2630A2000ED3FD /* Mocks.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -697,17 +699,17 @@
 /* Begin PBXTargetDependency section */
 		7398B0B81C2622C5000ED3FD /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 7398B0AA1C2622C5000ED3FD /* ReduxReactiveKit-iOS */;
+			target = 7398B0AA1C2622C5000ED3FD /* ReduxKitReactiveKit-iOS */;
 			targetProxy = 7398B0B71C2622C5000ED3FD /* PBXContainerItemProxy */;
 		};
 		7398B0E31C2622FE000ED3FD /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 7398B0D61C2622FE000ED3FD /* ReduxReactiveKit-tvOS */;
+			target = 7398B0D61C2622FE000ED3FD /* ReduxKitReactiveKit-tvOS */;
 			targetProxy = 7398B0E21C2622FE000ED3FD /* PBXContainerItemProxy */;
 		};
 		7398B0FF1C262310000ED3FD /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 7398B0F21C262310000ED3FD /* ReduxReactiveKit-OSX */;
+			target = 7398B0F21C262310000ED3FD /* ReduxKitReactiveKit-Mac */;
 			targetProxy = 7398B0FE1C262310000ED3FD /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -754,13 +756,15 @@
 				MACOSX_DEPLOYMENT_TARGET = 10.10;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
-				PRODUCT_BUNDLE_IDENTIFIER = SwiftRedux.ReduxReactiveKit;
-				PRODUCT_NAME = ReduxReactiveKit;
+				PRODUCT_BUNDLE_IDENTIFIER = ReduxKit.ReduxKitReactiveKit;
+				PRODUCT_NAME = ReduxKitReactiveKit;
 				SDKROOT = iphoneos;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				TARGETED_DEVICE_FAMILY = "1,2";
+				TVOS_DEPLOYMENT_TARGET = 9.0;
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
+				WATCHOS_DEPLOYMENT_TARGET = 2.0;
 			};
 			name = Debug;
 		};
@@ -798,13 +802,15 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				MACOSX_DEPLOYMENT_TARGET = 10.10;
 				MTL_ENABLE_DEBUG_INFO = NO;
-				PRODUCT_BUNDLE_IDENTIFIER = SwiftRedux.ReduxReactiveKit;
-				PRODUCT_NAME = ReduxReactiveKit;
+				PRODUCT_BUNDLE_IDENTIFIER = ReduxKit.ReduxKitReactiveKit;
+				PRODUCT_NAME = ReduxKitReactiveKit;
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = "1,2";
+				TVOS_DEPLOYMENT_TARGET = 9.0;
 				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
+				WATCHOS_DEPLOYMENT_TARGET = 2.0;
 			};
 			name = Release;
 		};
@@ -820,7 +826,7 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)/Carthage/Build/iOS",
 				);
-				INFOPLIST_FILE = ReduxReactiveKit/Info.plist;
+				INFOPLIST_FILE = ReduxKitReactiveKit/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				SKIP_INSTALL = YES;
@@ -840,7 +846,7 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)/Carthage/Build/iOS",
 				);
-				INFOPLIST_FILE = ReduxReactiveKit/Info.plist;
+				INFOPLIST_FILE = ReduxKitReactiveKit/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				SKIP_INSTALL = YES;
@@ -854,10 +860,10 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)/Carthage/Build/iOS",
 				);
-				INFOPLIST_FILE = ReduxReactiveKitTests/Info.plist;
+				INFOPLIST_FILE = ReduxKitReactiveKitTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = SwiftRedux.ReduxReactiveKitTests;
-				PRODUCT_NAME = ReduxReactiveKitTests;
+				PRODUCT_BUNDLE_IDENTIFIER = ReduxKit.ReduxKitReactiveKitTests;
+				PRODUCT_NAME = ReduxKitReactiveKitTests;
 			};
 			name = Debug;
 		};
@@ -868,10 +874,10 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)/Carthage/Build/iOS",
 				);
-				INFOPLIST_FILE = ReduxReactiveKitTests/Info.plist;
+				INFOPLIST_FILE = ReduxKitReactiveKitTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = SwiftRedux.ReduxReactiveKitTests;
-				PRODUCT_NAME = ReduxReactiveKitTests;
+				PRODUCT_BUNDLE_IDENTIFIER = ReduxKit.ReduxKitReactiveKitTests;
+				PRODUCT_NAME = ReduxKitReactiveKitTests;
 			};
 			name = Release;
 		};
@@ -888,14 +894,13 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)/Carthage/Build/watchOS",
 				);
-				INFOPLIST_FILE = ReduxReactiveKit/Info.plist;
+				INFOPLIST_FILE = ReduxKitReactiveKit/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				SDKROOT = watchos;
 				SKIP_INSTALL = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				TARGETED_DEVICE_FAMILY = 4;
-				WATCHOS_DEPLOYMENT_TARGET = 2.1;
 			};
 			name = Debug;
 		};
@@ -912,13 +917,12 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)/Carthage/Build/watchOS",
 				);
-				INFOPLIST_FILE = ReduxReactiveKit/Info.plist;
+				INFOPLIST_FILE = ReduxKitReactiveKit/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				SDKROOT = watchos;
 				SKIP_INSTALL = YES;
 				TARGETED_DEVICE_FAMILY = 4;
-				WATCHOS_DEPLOYMENT_TARGET = 2.1;
 			};
 			name = Release;
 		};
@@ -934,14 +938,13 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)/Carthage/Build/tvOS",
 				);
-				INFOPLIST_FILE = ReduxReactiveKit/Info.plist;
+				INFOPLIST_FILE = ReduxKitReactiveKit/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				SDKROOT = appletvos;
 				SKIP_INSTALL = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				TARGETED_DEVICE_FAMILY = 3;
-				TVOS_DEPLOYMENT_TARGET = 9.1;
 			};
 			name = Debug;
 		};
@@ -957,13 +960,12 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)/Carthage/Build/tvOS",
 				);
-				INFOPLIST_FILE = ReduxReactiveKit/Info.plist;
+				INFOPLIST_FILE = ReduxKitReactiveKit/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				SDKROOT = appletvos;
 				SKIP_INSTALL = YES;
 				TARGETED_DEVICE_FAMILY = 3;
-				TVOS_DEPLOYMENT_TARGET = 9.1;
 			};
 			name = Release;
 		};
@@ -975,13 +977,12 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)/Carthage/Build/tvOS",
 				);
-				INFOPLIST_FILE = ReduxReactiveKitTests/Info.plist;
+				INFOPLIST_FILE = ReduxKitReactiveKitTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = SwiftRedux.ReduxReactiveKitTests;
-				PRODUCT_NAME = ReduxReactiveKitTests;
+				PRODUCT_BUNDLE_IDENTIFIER = ReduxKit.ReduxKitReactiveKitTests;
+				PRODUCT_NAME = ReduxKitReactiveKitTests;
 				SDKROOT = appletvos;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				TVOS_DEPLOYMENT_TARGET = 9.1;
 			};
 			name = Debug;
 		};
@@ -993,12 +994,11 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)/Carthage/Build/tvOS",
 				);
-				INFOPLIST_FILE = ReduxReactiveKitTests/Info.plist;
+				INFOPLIST_FILE = ReduxKitReactiveKitTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = SwiftRedux.ReduxReactiveKitTests;
-				PRODUCT_NAME = ReduxReactiveKitTests;
+				PRODUCT_BUNDLE_IDENTIFIER = ReduxKit.ReduxKitReactiveKitTests;
+				PRODUCT_NAME = ReduxKitReactiveKitTests;
 				SDKROOT = appletvos;
-				TVOS_DEPLOYMENT_TARGET = 9.1;
 			};
 			name = Release;
 		};
@@ -1017,10 +1017,9 @@
 					"$(PROJECT_DIR)/Carthage/Build/Mac",
 				);
 				FRAMEWORK_VERSION = A;
-				INFOPLIST_FILE = ReduxReactiveKit/Info.plist;
+				INFOPLIST_FILE = ReduxKitReactiveKit/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/Frameworks";
-				MACOSX_DEPLOYMENT_TARGET = 10.11;
 				SDKROOT = macosx;
 				SKIP_INSTALL = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
@@ -1042,10 +1041,9 @@
 					"$(PROJECT_DIR)/Carthage/Build/Mac",
 				);
 				FRAMEWORK_VERSION = A;
-				INFOPLIST_FILE = ReduxReactiveKit/Info.plist;
+				INFOPLIST_FILE = ReduxKitReactiveKit/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/Frameworks";
-				MACOSX_DEPLOYMENT_TARGET = 10.11;
 				SDKROOT = macosx;
 				SKIP_INSTALL = YES;
 			};
@@ -1061,11 +1059,10 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)/Carthage/Build/Mac",
 				);
-				INFOPLIST_FILE = ReduxReactiveKitTests/Info.plist;
+				INFOPLIST_FILE = ReduxKitReactiveKitTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
-				MACOSX_DEPLOYMENT_TARGET = 10.11;
-				PRODUCT_BUNDLE_IDENTIFIER = SwiftRedux.ReduxReactiveKitTests;
-				PRODUCT_NAME = ReduxReactiveKitTests;
+				PRODUCT_BUNDLE_IDENTIFIER = ReduxKit.ReduxKitReactiveKitTests;
+				PRODUCT_NAME = ReduxKitReactiveKitTests;
 				SDKROOT = macosx;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 			};
@@ -1081,11 +1078,10 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)/Carthage/Build/Mac",
 				);
-				INFOPLIST_FILE = ReduxReactiveKitTests/Info.plist;
+				INFOPLIST_FILE = ReduxKitReactiveKitTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
-				MACOSX_DEPLOYMENT_TARGET = 10.11;
-				PRODUCT_BUNDLE_IDENTIFIER = SwiftRedux.ReduxReactiveKitTests;
-				PRODUCT_NAME = ReduxReactiveKitTests;
+				PRODUCT_BUNDLE_IDENTIFIER = ReduxKit.ReduxKitReactiveKitTests;
+				PRODUCT_NAME = ReduxKitReactiveKitTests;
 				SDKROOT = macosx;
 			};
 			name = Release;
@@ -1093,7 +1089,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		7398B0A51C2622C5000ED3FD /* Build configuration list for PBXProject "ReduxReactiveKit" */ = {
+		7398B0A51C2622C5000ED3FD /* Build configuration list for PBXProject "ReduxKitReactiveKit" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				7398B0BD1C2622C5000ED3FD /* Debug */,
@@ -1102,7 +1098,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		7398B0BF1C2622C5000ED3FD /* Build configuration list for PBXNativeTarget "ReduxReactiveKit-iOS" */ = {
+		7398B0BF1C2622C5000ED3FD /* Build configuration list for PBXNativeTarget "ReduxKitReactiveKit-iOS" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				7398B0C01C2622C5000ED3FD /* Debug */,
@@ -1111,7 +1107,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		7398B0C21C2622C5000ED3FD /* Build configuration list for PBXNativeTarget "ReduxReactiveKit-iOSTests" */ = {
+		7398B0C21C2622C5000ED3FD /* Build configuration list for PBXNativeTarget "ReduxKitReactiveKit-iOSTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				7398B0C31C2622C5000ED3FD /* Debug */,
@@ -1120,7 +1116,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		7398B0CF1C2622F0000ED3FD /* Build configuration list for PBXNativeTarget "ReduxReactiveKit-watchOS" */ = {
+		7398B0CF1C2622F0000ED3FD /* Build configuration list for PBXNativeTarget "ReduxKitReactiveKit-watchOS" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				7398B0D01C2622F0000ED3FD /* Debug */,
@@ -1129,7 +1125,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		7398B0E81C2622FE000ED3FD /* Build configuration list for PBXNativeTarget "ReduxReactiveKit-tvOS" */ = {
+		7398B0E81C2622FE000ED3FD /* Build configuration list for PBXNativeTarget "ReduxKitReactiveKit-tvOS" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				7398B0E91C2622FE000ED3FD /* Debug */,
@@ -1138,7 +1134,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		7398B0EB1C2622FE000ED3FD /* Build configuration list for PBXNativeTarget "ReduxReactiveKit-tvOSTests" */ = {
+		7398B0EB1C2622FE000ED3FD /* Build configuration list for PBXNativeTarget "ReduxKitReactiveKit-tvOSTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				7398B0EC1C2622FE000ED3FD /* Debug */,
@@ -1147,7 +1143,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		7398B1041C262310000ED3FD /* Build configuration list for PBXNativeTarget "ReduxReactiveKit-OSX" */ = {
+		7398B1041C262310000ED3FD /* Build configuration list for PBXNativeTarget "ReduxKitReactiveKit-Mac" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				7398B1051C262310000ED3FD /* Debug */,
@@ -1156,7 +1152,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		7398B1071C262310000ED3FD /* Build configuration list for PBXNativeTarget "ReduxReactiveKit-OSXTests" */ = {
+		7398B1071C262310000ED3FD /* Build configuration list for PBXNativeTarget "ReduxKitReactiveKit-MacTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				7398B1081C262310000ED3FD /* Debug */,

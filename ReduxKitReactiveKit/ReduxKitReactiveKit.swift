@@ -1,17 +1,17 @@
 //
-//  ReduxReactiveKit.swift
-//  ReduxReactiveKit
+//  ReduxKitReactiveKit.swift
+//  ReduxKitReactiveKit
 //
 //  Created by Karl Bowden on 20/12/2015.
-//  Copyright © 2015 SwiftRedux. All rights reserved.
+//  Copyright © 2015 ReduxKit. All rights reserved.
 //
 
 import ReactiveKit
-import Redux
+import ReduxKit
 
 /**
 
- Uses `createStateStream` to create a `Redux.Store<State>` using a
+ Uses `createStateStream` to create a `ReduxKit.Store<State>` using a
  `ReactiveKit.Observable<State>` stream.
 
  */
@@ -26,7 +26,7 @@ public func createStore<State>(
 
 /**
 
- Accepts a `State` and returns `Redux.StateStream<State>` using a
+ Accepts a `State` and returns `ReduxKit.StateStream<State>` using a
  `ReactiveKit.Observable<State>` as the stream provider.
 
  */
@@ -37,7 +37,7 @@ public func createStream<State>(state: State) -> StateStream<State> {
         return createDisposable(observable.observe(observer: subscriber))
     }
 
-    return StateStream(dispatch: observable.next, subscribe: { createDisposable(observable.observe(observer: $0)) }, getState: { observable.value })
+    return StateStream(dispatch: observable.next, subscribe: subscribe, getState: { observable.value })
 }
 
 
