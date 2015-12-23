@@ -1,13 +1,13 @@
-# ReduxReactiveKit
+# ReduxKitReactiveKit
 
-ReactiveKit bindings for Redux.
+ReactiveKit bindings for ReduxKit.
 
 ## Usage / Quick start
 
 ```swift
 import ReactiveKit
-import Redux
-import ReduxReactiveKit
+import ReduxKit
+import ReduxKitReactiveKit
 
 // Setup State, Actions and Reducers
 struct State {
@@ -32,7 +32,7 @@ func reducer(previousState: State? = nil, action: Action) -> State {
 }
 
 // Create the Store
-let store: Store<State> = ReduxReactiveKit.createStore(reducer)
+let store: Store<State> = ReduxKitReactiveKit.createStore(reducer)
 
 let disposable = store.subscribe { print("Count: \($0.count)") }
 // -> Count: 0
@@ -50,9 +50,9 @@ store.dispatch(IncrementAction())
 
 ### [Carthage](https://github.com/Carthage/Carthage)
 
-Add ReduxReactiveKit to `Cartfile`
+Add ReduxKitReactiveKit to `Cartfile`
 ```
-github "SwiftRedux/ReduxReactiveKit"
+github "ReduxKit/ReduxKitReactiveKit" ~> 0.1
 ```
 
 Run in terminal:
@@ -62,13 +62,10 @@ $ carthage update
 
 ### [CocoaPods](http://cocoapods.org)
 
-Add ReduxReactiveKit to your `Podfile`:
+Add ReduxKitReactiveKit to your `Podfile`:
 
 ```ruby
-source 'https://github.com/CocoaPods/Specs.git'
-platform :ios, '8.0'
-
-pod 'ReduxReactiveKit', '~> 0.0.19'
+pod 'ReduxKitReactiveKit', '~> 0.1'
 ```
 
 Then, run the following command:
@@ -86,7 +83,7 @@ func createStore<State>(reducer: Reducer, state: State? = nil)
 	-> Store<State>
 ```
 
-Uses `createStateStream` to create a `Redux.Store<State>` using a `ReactiveKit.Observable<State>` stream.
+Uses `createStateStream` to create a `ReduxKit.Store<State>` using a `ReactiveKit.Observable<State>` stream.
 
 
 ### createStateStream
@@ -96,7 +93,7 @@ public func createStream<State>(state: State)
 	-> StateStream<State>
 ```
 
-Accepts a `State` and returns `Redux.StateStream<State>` using a `ReactiveKit.Observable<State>` as the stream provider.
+Accepts a `State` and returns `ReduxKit.StateStream<State>` using a `ReactiveKit.Observable<State>` as the stream provider.
 
 ### createDisposable
 
